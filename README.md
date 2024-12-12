@@ -50,8 +50,7 @@ https://github-production-user-asset-6210df.s3.amazonaws.com/82999440/393319110-
 - **Install Daytona**:Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/). 
 - **Create the Workspace**:  
   ```bash
-  https://github.com/daytonaio/sample-ai-carecradle
-
+  daytona create https://github.com/daytonaio/sample-ai-carecradle
 - **Add your open api key by creating a .env file.**
   ```bash
   REACT_APP_OPENAI_KEY=
